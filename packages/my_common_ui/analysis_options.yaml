@@ -1,0 +1,9 @@
+dart_code_metrics:
+  rules:
+    - avoid-banned-imports:
+        entries:
+          - paths:
+              - "lib/.*\\.dart"
+            deny:
+              - package:sh_common_ui/sh_common_ui.dart
+            message: Import specific files instead of the public barrel.
