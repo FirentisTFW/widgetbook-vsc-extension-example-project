@@ -1,0 +1,7 @@
+[
+    {
+        "type": "bool",
+        "nullability": "both",
+        "value": "context.knobs.boolean(label: '$fieldName', initialValue: true)"
+    }
+]
