@@ -1,0 +1,8 @@
+{
+    "widgetbook-generator.widgetsDirectoryPath": "apps/my_widgetbook/lib/widgets",
+    "widgetbook-generator.barrelFileImport": "package:my_common_ui/my_common_ui.dart",
+    "widgetbook-generator.rootDirectoryName": "my_project",
+    "widgetbook-generator.widgetbookVersion": "3.2.0",
+    "widgetbook-generator.approach": "Manual",
+    "widgetbook-generator.customKnobsPath": "custom_knobs.json",
+}
